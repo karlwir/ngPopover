@@ -1,0 +1,22 @@
+{
+  "name": "ng-popover",
+  "version": "0.0.20",
+  "description": "css framwork independent popover imlementation for angular.js",
+  "main": "js/ngPopover.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlwir/ngPopover.git"
+  },
+  "author": "anderslarsson <anders.larsson.funkis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlwir/ngPopover/issues"
+  },
+  "homepage": "https://github.com/karlwir/ngPopover#readme",
+  "dependencies": {
+    "angular": "~1"
+  }
+}
